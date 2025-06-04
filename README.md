@@ -28,8 +28,8 @@
 
 ### Hardware:
 - [ESP32-2432S024C (aka cydc)](https://www.amazon.com/DIYmalls-ESP32-2432S024C-Capacitive-ESP-WROOM-32-Development/dp/B0CLGD2DG6)
-- [PCM5102A DAC](https://www.aliexpress.us/item/3256806852386264.html?spm=a2g0o.order_list.order_list_main.79.587e1802SY02Nj&gatewayAdapt=glo2usa)
-- [104060 3000mAh Li-ion Battery](https://www.aliexpress.us/item/3256807952055157.html?spm=a2g0o.order_list.order_list_main.66.587e1802SY02Nj&gatewayAdapt=glo2usa)
+- [PCM5102A DAC](https://www.amazon.com/DIYmalls-ESP32-2432S024C-Capacitive-ESP-WROOM-32-Development/dp/B0CLGD2DG6)
+- [3000mAh Li-ion Battery](https://www.amazon.com/DIYmalls-ESP32-2432S024C-Capacitive-ESP-WROOM-32-Development/dp/B0CLGD2DG6)
 - 3 M3 30mm Screws  
 - 3 M3 Hex Nuts  
 - 3 M3 Lock Nuts  
@@ -40,6 +40,14 @@
 ### Software:
 - [Catify](https://github.com/Cat-Pog-Real/Catify)
 - [Pillow (Python Imaging Library)](https://pypi.org/project/pillow/)
+- [bb_spi_lcd](https://github.com/Cat-Pog-Real/bb_spi_lcd)
+- [bb_captouch](https://github.com/Cat-Pog-Real/bb_captouch)
+- [ESP32-audioI2S-master](https://github.com/schreibfaul1/ESP32-audioI2S)
+- [ArduinoJson](https://arduinojson.org/)
+- [Adafruit TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen)
+- [Adafruit ILI9341](https://github.com/adafruit/Adafruit_ILI9341)
+- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
+- [Adafruit BusIO](https://github.com/adafruit/Adafruit_BusIO)
 
 ---
 
